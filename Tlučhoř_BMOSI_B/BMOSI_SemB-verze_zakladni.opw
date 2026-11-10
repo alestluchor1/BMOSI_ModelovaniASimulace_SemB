@@ -1,0 +1,40 @@
+[RESOURCES]
+SJ2
+SJ3
+SJ1
+SJ4
+OK
+MP
+SJ_real3
+SJ_real2
+SJ_real1
+SJ_real4
+VK
+[VARIABLES]
+Prijezd na VK.NumberIn
+PresunPresuvnyK_OK.NumberIn
+Pozice_presuvny
+KonecCSV.NumberOut
+PresLokoNaMP.NumberIn
+PresunMPkVK.NumberOut
+PresunMPkVK.NumberIn
+DelkaKoleje
+IntervalPrijezdu
+DobaPripravyNaOpravu
+Seize SJ_real.NumberOut
+Seize SJ_real.NumberIn
+Pozice_VK
+PresunPresuvnyK_OK.NumberOut
+Pozice_OK
+VstupCSV.NumberOut
+DobaOpravy
+Start.NumberOut
+RychlostLokomotivy
+Oprava.NumberIn
+PresLokoNaMP.NumberOut
+Oprava.NumberOut
+Prideleni OK a MP.NumberIn
+DobaPresunuLoko
+Prideleni OK a MP.NumberOut
+Konec.NumberOut
+Prijezd na VK.NumberOut
