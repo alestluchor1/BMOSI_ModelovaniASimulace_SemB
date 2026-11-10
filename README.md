@@ -13,6 +13,7 @@ Semestrální práce z předmětu **Modelování a simulace (KST/BMOSI)** na Uni
 - **Akademický rok:** 2025/2026
 - **Předmět:** Modelování a simulace
 - **Typ práce:** Semestrální práce B
+- **Hodnocení:** 6 bodů včetně bonusových
 
 ## 📖 Popis projektu
 
